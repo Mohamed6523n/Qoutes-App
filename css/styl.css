@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(206, 223, 255, 0);
+}
+
+
+header{
+    margin:  20px 0 20px 0;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    margin-top: 3rem;
+   background-color: rgba(230, 255, 255, 0.906) ;
+}
+h4{
+    font-family: monospace;
+}
